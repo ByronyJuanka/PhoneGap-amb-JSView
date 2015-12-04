@@ -1,11 +1,11 @@
-# La meva primera APP
+# PRIMERA MOSTRA DE APLICACIÓ STUDIO
 
 
 29/11/2015
 
 02/12/2015
 El projecta ara es diu : PhoneGap-amb-JSView
-
+Byron Aspajo, Juank Díaz
 Informàtica 4t ESO 2015 2016
 INS Numància 
 Santa Coloma de Gramenet
